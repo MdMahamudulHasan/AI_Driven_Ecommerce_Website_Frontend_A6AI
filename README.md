@@ -6,7 +6,7 @@
 A6AI is a fully responsive, AI-powered e-commerce web application built with React.js and Tailwind CSS...
 
 ## Group Contributors & Contribution Breakdown
-This was a collaborative group project developed offline initially (code sharing via Google Drive/USB). We assigned contributions based on individual work on features, components, design, and implementation.
+This was a collaborative group project. We assigned contributions based on individual work on features, components, design, and implementation.
 
 - **Md Mahamudul** (MdMahamudulHasan, hmahamudul846@gmail.com) — 
   Highest contribution: Overall React architecture, core components, Vercel deployment, main setup, homepage/product listing, checkout flow, and project coordination.
