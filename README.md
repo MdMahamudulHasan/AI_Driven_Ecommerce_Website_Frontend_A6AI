@@ -1,6 +1,6 @@
 # A6AI - AI-Powered E-Commerce Front-End
 
-[Your live Vercel link here, e.g., https://a6ai.vercel.app]
+[Websit link here, https://a6ai.vercel.app]
 
 ## Project Overview
 A6AI is a fully responsive, AI-powered e-commerce web application built with React.js and Tailwind CSS...
